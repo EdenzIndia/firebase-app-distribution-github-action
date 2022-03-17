@@ -25,3 +25,5 @@ branding:
 runs:
   using: 'docker'
   image: 'Dockerfile'
+- name: Firebase App Distribution Action
+  uses: hasretsariyer/firebase-app-distribution-github-action@v1.0
